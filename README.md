@@ -2,11 +2,11 @@
 
 This repository contains the implementation accompanying the paper:
 
-> **Machine Learning Invariants of Tensors**  
+> **[Machine Learning Invariants of Tensors](https://research.iaifi.org/posts/machine-learning-invariants-of-tensors/)**  
 > Athithan Elamaran, Christian Ferko, Sterling Scarlett  
 > arXiv:2512.23750v1
 
-The project introduces a data-driven framework for discovering functionally independent tensor invariants using graph enumeration, random tensor sampling, and numerical linear algebra. :contentReference[oaicite:0]{index=0}
+The project introduces a data-driven framework for discovering functionally independent tensor invariants using graph enumeration, random tensor sampling, and numerical linear algebra.
 
 ---
 
@@ -20,7 +20,7 @@ The paper proposes an algorithm that:
 - Detects linear and polynomial dependencies numerically
 - Identifies minimal generating sets of invariants
 
-The main case study analyzes an antisymmetric 3-form \(H_{\mu\nu\rho}\) in six dimensions and finds **five independent invariants**. :contentReference[oaicite:1]{index=1}
+The main case study analyzes an antisymmetric 3-form $H_{\mu\nu\rho}$ in six dimensions and finds **five independent invariants**.
 
 ---
 
